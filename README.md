@@ -1,6 +1,6 @@
 # idn-allowed-code-points-regex [![Build status](https://travis-ci.org/mathiasbynens/idn-allowed-code-points-regex.svg?branch=master)](https://travis-ci.org/mathiasbynens/idn-allowed-code-points-regex)
 
-_idn-allowed-code-points-regex_ is a regular expression that matches any symbol in [the list of allowed IDN code points that Verisign uses by default](https://www.verisign.com/assets/allowedcode/idn-allowed-code-points-regex.html). See [the Verisign SRS IDN registration rules](https://www.verisign.com/en_US/channel-resources/domain-registry-products/idn/idn-policy/registration-rules/index.xhtml) for more info.
+_idn-allowed-code-points-regex_ is a regular expression that matches any symbol in [the list of allowed IDN code points that Verisign uses by default](https://www.verisign.com/assets/allowedcode/idn-allowed-code-points.html). See [the Verisign SRS IDN registration rules](https://www.verisign.com/en_US/channel-resources/domain-registry-products/idn/idn-policy/registration-rules/index.xhtml) for more info.
 
 ## Installation
 
