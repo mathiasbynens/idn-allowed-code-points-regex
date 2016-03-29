@@ -1,6 +1,6 @@
 {
   "name": "idn-allowed-code-points-regex",
-  "version": "0.0.0",
+  "version": "1.0.0",
   "description": "A regular expression that matches any of the code points that Verisign allows by default in IDN.",
   "homepage": "https://github.com/mathiasbynens/idn-allowed-code-points-regex",
   "main": "index.js",
