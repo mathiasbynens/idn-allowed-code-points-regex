@@ -1,0 +1,46 @@
+{
+  "name": "idn-allowed-code-points-regex",
+  "version": "0.0.0",
+  "description": "A regular expression that matches any of the code points that Verisign allows by default in IDN.",
+  "homepage": "https://github.com/mathiasbynens/idn-allowed-code-points-regex",
+  "main": "index.js",
+  "keywords": [
+    "idn",
+    "idna",
+    "punycode",
+    "verisign",
+    "unicode",
+    "unicode-data",
+    "code points",
+    "symbols",
+    "characters",
+    "data",
+    "regex"
+  ],
+  "license": "MIT",
+  "author": {
+    "name": "Mathias Bynens",
+    "url": "https://mathiasbynens.be/"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/mathiasbynens/idn-allowed-code-points-regex.git"
+  },
+  "bugs": "https://github.com/mathiasbynens/idn-allowed-code-points-regex/issues",
+  "files": [
+    "LICENSE-MIT.txt",
+    "index.js"
+  ],
+  "directories": {
+    "test": "tests"
+  },
+  "scripts": {
+    "build": "node scripts/generate.js",
+    "test": "mocha tests"
+  },
+  "devDependencies": {
+    "idn-allowed-code-points": "^1.0.0",
+    "mocha": "^2.2.5",
+    "regenerate": "^1.2.1"
+  }
+}
